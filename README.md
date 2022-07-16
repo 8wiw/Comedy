@@ -1,2 +1,2 @@
-# Comedy
-Funny stuff
+## Comedy
+**Funny stuff**
